@@ -31,7 +31,7 @@ Points to convey:
 ### Part 3: Basic functionality
 
 4. [Drafting your text](04_DraftingLatex/draftingLatex.md)
-5. [Equations and tables](05_EquationsTables/InsertingEquations.md)
+5. [Equations and tables](05_EquationsTables/insertingEquations.md)
 6. [Figures](06_Figures/insertingFigures.md)
 7. [Citations and bibliography](07_Citations/insertingCitations.md)
 8. [Collaborative editing](08_collaborativeEditing/collaborating.md)
